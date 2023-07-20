@@ -1,7 +1,7 @@
 ### Hi 👋
 
 🌱 I’m currently learning...
-<img src="https://img.shields.io/badge/React-navy?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=navy"/>
 
 <!--
 **millejuice/millejuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
