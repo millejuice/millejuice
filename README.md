@@ -1,24 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Juice%20Github&fontSize=90" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=This+is+Juice🌱;&color=90EE90" />
+</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=millejuice.millejuice" />
+<br />
 
-### Hi 👋
+<h3 align="center">Why Not Change the World🇰🇷</h3>
 
-🌱 I’m currently learning...
-<div>
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
- <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<br/>
+
+<div align="center">
+ 
+ 🍀 I’m Students of Handong Global University 🍀
+ 
+ ✅ I’m currently learning **Docker, Spring, AWS, Mne-Python**
+
+ </div>
+
+<h2 align="center">🦋 Stats 🦋</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=millejuice&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=millejuice&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=millejuice&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ 
+  <a href="https://solved.ac/백준아이디/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lunf" width="390" alt="Solved.ac Profile">
+</a>
 </div>
 
---- 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=millejuice&show_icons=true&theme=radical) <br />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lunf)](https://solved.ac/백준아이디/)
 
 
-🌊 Stacks
---- 
-<div>
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
+<h2 align="center">🌊 Stacks 🌊</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,idea,github,figma,git,nodejs,javascript" />
+    <img src="https://skillicons.dev/icons?i=matlab,firebase,c,cpp,java,spring,postman,mysql,androidstudio,dart,flutter" /><br>
 </div>
+
+
+
