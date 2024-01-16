@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🍀 I’m Students of Handong Global University 🍀
+ 🍀 Students of Handong Global University 🍀
  
  ✅ I’m currently learning **Docker, Spring, AWS, Mne-Python**
 
