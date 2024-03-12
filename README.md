@@ -12,7 +12,7 @@
  
  🍀 Students of Handong Global University 🍀
  
- ✅ I’m currently learning **Docker, Spring, AWS, Mne-Python**
+ ✅ I’m currently learning **Docker, Spring, AWS**
 
  </div>
 
