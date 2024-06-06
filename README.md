@@ -1,6 +1,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=This+is+Juice🌱;&color=90EE90" />
 </h1>
+<div style="text-align: center;">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/millejuice"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
+<br />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=millejuice.millejuice" />
 <br />
 
