@@ -37,8 +37,7 @@
 <h2 align="center">🌊 Stacks 🌊</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,idea,github,figma,git,nodejs,javascript" />
-    <img src="https://skillicons.dev/icons?i=matlab,firebase,c,cpp,java,spring,postman,mysql,androidstudio,dart,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,java,spring,postman,mysql" />
 </div>
 
 
