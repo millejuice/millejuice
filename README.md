@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🍀 Students of Handong Global University 🍀
+ 🍀 Student of Handong Global University 🍀
 
  🟢 progressive pioneer 🟢
  
