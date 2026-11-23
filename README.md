@@ -12,8 +12,6 @@
 
 <div align="center">
  
- 🍀 Student of Handong Global University 🍀
-
  🟢 progressive pioneer 🟢
  
  ✅ I’m currently learning **Docker, Spring, AWS**
